@@ -5,7 +5,7 @@ pip install pandas
 pip install matplotlib
 ```
 ### 创建Excel文件
-```
+```python
 import pandas as pd
 df=pd.DataFrame({'ID':[1,2,3], 'Name':['Tim','Victor','Nick']})
 df=df.set_index('ID')
