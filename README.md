@@ -1,17 +1,19 @@
 # Pandas-VS-Excel
 
-Day1-创建Excel文件
+D1-创建Excel文件
 
-Day2-读取Excel文件
+D2-读取Excel文件
 
-Day3-创建Excel文件
+D3-创建Excel文件
 
-Day4-自动填充
+D4-自动填充
 
-Day5-计算列
+D5-计算列
 
-Day6-排序
+D6-排序
 
-Day7-数据筛选
+D7-数据筛选
 
-Day8-柱状图
+D8-柱状图
+
+D9-饼图
